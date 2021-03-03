@@ -18,12 +18,12 @@
 
 <p align="center">
     <a href="#-sobre-o-projeto">Sobre</a> •
-    <a href="#-demonstracao">Demo</a> •
-    <a href="#pré-requisitos">Pré-requisitos</a> •
-    <a href="#-como-executar-o-projeto">Como executar</a> •
-    <a href="#script">Script</a> •
-    <a href="#tecnologias">Tecnologias</a> •
-    <a href="#autor">Autor</a> •
+    <a href="#movie_camera-demonstração">Demo</a> •
+    <a href="#-pré-requisitos">Pré-requisitos</a> •
+    <a href="#cd-como-executar-o-projeto">Como executar</a> •
+    <a href="#game_die-script">Script</a> •
+    <a href="#-tecnologias">Tecnologias</a> •
+    <a href="#-autor">Autor</a> •
     <a href="#créditos">Créditos</a>
 </p>
 
@@ -49,7 +49,7 @@ Antes de começar, será ncessário ter instalado [Node.js](https://nodejs.org/e
 
 <!-- ### :cd: Como executar o projeto -->
 
-### Como executar o projeto
+### :cd: Como executar o projeto
 
 ```bash
 # Clone este repositório
