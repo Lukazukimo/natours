@@ -1,18 +1,6 @@
-<!--
-https://github.com/barryblando/project-natours/blob/master/README.md
-
-https://blog.rocketseat.com.br/como-fazer-um-bom-readme/
- -->
-
 <p align="center">
     <img src="/img/logo-green-2x.png" height='200'>
 </p>
-
-<!--
-BADGES
-https://shields.io/
-https://simpleicons.org/
--->
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=made with&message=html5&color=FF5722&style=for-the-badge&logo=html5"/>
@@ -29,26 +17,31 @@ https://simpleicons.org/
 </h4>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#pré-requisitos">Pré-requisitos</a> •
- <a href="#-como-executar-o-projeto">Como executar</a> •
- <a href="#script">Script</a> •
- <a href="#tecnologias">Tecnologias</a> •
- <a href="#autor">Autor</a> •
- <a href="#créditos">Créditos</a>
+    <a href="#-sobre-o-projeto">Sobre</a> •
+    <a href="#demonstração">Demo</a> •
+    <a href="#pré-requisitos">Pré-requisitos</a> •
+    <a href="#-como-executar-o-projeto">Como executar</a> •
+    <a href="#script">Script</a> •
+    <a href="#tecnologias">Tecnologias</a> •
+    <a href="#autor">Autor</a> •
+    <a href="#créditos">Créditos</a>
 </p>
 
 ### 💻 Sobre o projeto
 
 Landing Page de uma empresa fictícia de passeios na natureza.
 
-Projeto desenvolvido no curso da udemy **_Advanced CSS and Sass: Flexbox, Grid, Animations and More!_** por **_[Jonas Schmedtmann](https://github.com/jonasschmedtmann)_**
+Projeto desenvolvido no curso da udemy **_Advanced CSS and Sass: Flexbox, Grid, Animations and More!_** por **_[Jonas Schmedtmann](https://github.com/jonasschmedtmann)_**.
 
 <p align="center">
     <img src="/github/img1.png" height='400' >
     <img src="/github/img3.png" height='400' >
     <img src="/github/img4.png" height='400' >
 <p/>
+
+### :movie_camera: Demonstração
+
+Segue o [link](https://lukazukimo.github.io/natours/) para a demonsração do projeto ao vivo.
 
 ### 📌 Pré-requisitos
 
