@@ -18,7 +18,7 @@
 
 <p align="center">
     <a href="#-sobre-o-projeto">Sobre</a> •
-    <a href="#demonstração">Demo</a> •
+    <a href="#-demonstracao">Demo</a> •
     <a href="#pré-requisitos">Pré-requisitos</a> •
     <a href="#-como-executar-o-projeto">Como executar</a> •
     <a href="#script">Script</a> •
@@ -41,7 +41,7 @@ Projeto desenvolvido no curso da udemy **_Advanced CSS and Sass: Flexbox, Grid, 
 
 ### :movie_camera: Demonstração
 
-Segue o [link](https://lukazukimo.github.io/natours/) para a demonsração do projeto ao vivo.
+Segue o [link](https://lukazukimo.github.io/natours/) para a demonstração do projeto ao vivo.
 
 ### 📌 Pré-requisitos
 
